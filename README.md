@@ -1,1 +1,1 @@
-# sutudy-jsprimer-todo-app
+# study-jsprimer-todo-app
